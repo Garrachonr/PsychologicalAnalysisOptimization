@@ -5,4 +5,4 @@ The conclusions of this projects aim to answer the following reflection: it is p
 
 To answer this, deep learning and machine learning techniques are employed. The methodology includes researching the theory and basis of the most commonly used psychological tests, training different models with data open source data from a psychological test, using different feature selection techniques to identify the most relevant questions, and then training optimized models with a reduced number of features to compare the outcomes.
 
-For more information and description of the project, please refer to the paper published in this repository.
+For more information, results, references and description of the project, please refer to the paper published in this repository.
